@@ -12,7 +12,7 @@
   /*content: 'Sebastián Ramírez Araya';*/
   border-right: 1px solid rgb(204,214,246);
   /*opacity: 0;*/
-  animation: 4s typing steps(23) infinite;
+  animation: 4s typing steps(17) infinite;
   /*animation-fill-mode: forwards;*/
   /*transition: opacity 3.5s;*/
   letter-spacing: 2px;
@@ -45,7 +45,7 @@
     width: 0px;
   }
   30%, 60% {
-    width: 477px;
+    width: 352px;
   }
 }
 
